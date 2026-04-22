@@ -11,4 +11,4 @@ __pycache__/
 .vscode/
 
 # External nested repository
-/src/doosan-robot2/
+# /src/doosan-robot2/
